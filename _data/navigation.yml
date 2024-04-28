@@ -1,9 +1,43 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: Homelab
+    url: /homelab/
+
+  - title: Programming
+    url: /programming/
+
+  - title: About me
     url: /about/
+
+homelab-nav:
+  - title: Hardware
+    url: /homelab/hardware
+    children:
+      - title: Current
+        url: /homelab/hardware/current-Hardware
+
+  - title: Hypervisors
+    url: /homelab/hypervisors
+    children:
+      - title: Proxmox
+        url: /homelab/hypervisors/proxmox
+
+  - title: Terraform
+
+  - title: Kubernetes
+
+  - title: Docker
+
+
+programming-nav:
+  - title: "Advent of code"
+    url: /programming/advent-of-code/home
+    
+    children:
+      - title: 2021
+        url: /programming/advent-of-code/2021
+
+      - title: 2022
+        url: /programming/advent-of-code/2022
+
+      - title: 2023
+        url: /programming/advent-of-code/2023
