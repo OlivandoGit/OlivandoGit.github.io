@@ -9,6 +9,10 @@ header:
   overlay_image: assets/images/home-splash.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
+  actions:
+    - label: Who am I?
+      url: /about/
+
 excerpt: A documentation of my adventures in IT/CS/Homelab
 
 intro:
@@ -16,10 +20,10 @@ intro:
 
 feature_row:
   - title: Adventures in Homelab
-    excerpt: A journey into Infrastructure management, Virtualisation, Containerization, Orchestration and so much more
+    excerpt: A journey into Infrastructure management, Virtualisation, Containerisation, Orchestration and so much more
 
     url: /homelab/
-    btn_label: Under Construction
+    btn_label: Read more
     btn_class: btn--primary 
 
 feature_row2:
@@ -31,7 +35,7 @@ feature_row2:
     btn_class: btn--primary 
 ---
 
-**Please be advised:** This site is still very much under construction and has very little content as of yet.
+**Please be advised:** This site is still very much under construction and offers very little content as of yet.
 {: .text-center .notice--warning}
 
 {% include feature_row id="intro" type="center" %}
