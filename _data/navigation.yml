@@ -8,28 +8,38 @@ main:
   - title: About me
     url: /about/
 
-homelab-nav:
-  - title: Hardware
-    url: /homelab/hardware
-    children:
-      - title: Current
-        url: /homelab/hardware/current-Hardware
-
-  - title: Hypervisors
-    url: /homelab/hypervisors
+homelab-software-nav:
+  - title: Hypervisor
     children:
       - title: Proxmox
-        url: /homelab/hypervisors/proxmox
 
-  - title: Terraform
 
-  - title: Kubernetes
 
-  - title: Docker
+  - title: Containerisation
+    children:
+      - title: Docker
 
+      - title: Docker-compose
+
+
+
+
+  - title: Orchestration
+    children: 
+      - title: Docker-fleet
+      - title: Kubernetes
+
+  
+  
+  - title: DNS
+    url: /homelab/software/dns
+
+    children:
+      - title: "Bind9"
+        url: /homelab/software/bind9
 
 programming-nav:
-  - title: "Advent of code"
+  - title: Advent of code
     url: /programming/advent-of-code/home
     
     children:
