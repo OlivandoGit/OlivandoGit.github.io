@@ -14,7 +14,7 @@ The physical hardware running my homelab
 ## Switches
 ### TP-link - TLSG105S
 
-{% include figure image_path="https://static.tp-link.com/upload/image-line/TL-SG105S(UN)3.0_02_normal_20230621034240g.jpg" alt="Image of TP-Link TLSG105S" caption="Image source: https://www.tp-link.com/uk/" %}
+{% include figure image_path="assets/images/TL-SG105S.jpg" alt="Image of TP-Link TLSG105S" caption="Image source: https://www.tp-link.com/uk/" %}
 
 Technical specifications:
 - 5x 1Gb RJ45 ports
@@ -22,7 +22,7 @@ Technical specifications:
 
 ## Servers
 ### Minisforum - MS-01
-{% include figure image_path="https://store.minisforum.uk/cdn/shop/files/5.png?v=1703747508&width=800" alt="Image of Minisforum MS-01" caption="Image source: https://store.minisforum.uk/" %}
+{% include figure image_path="assets/images/MS-01.png" alt="Image of Minisforum MS-01" caption="Image source: https://store.minisforum.uk/" %}
 
 Technical Specifications:
 - CPU: Intel i9-12900H
