@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Oliver Lister"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Aspiring network engineer, big computer nerd."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

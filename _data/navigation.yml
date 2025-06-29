@@ -6,7 +6,7 @@ main:
     url: /programming/
 
   - title: About me
-    url: /about/
+    url: /about-me/
 
 homelab-software-nav:
   # - title: Hypervisor
