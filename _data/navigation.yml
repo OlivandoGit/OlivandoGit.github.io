@@ -9,27 +9,33 @@ main:
     url: /about/
 
 homelab-software-nav:
-  - title: Hypervisor
-    children:
-      - title: Proxmox
+  # - title: Hypervisor
+  #   children:
+  #     - title: Proxmox
 
 
 
-  - title: Containerisation
-    children:
-      - title: Docker
+  # - title: Containerisation
+  #   children:
+  #     - title: Docker
 
-      - title: Docker-compose
-
-
+  #     - title: Docker-compose
 
 
-  - title: Orchestration
-    children: 
-      - title: Docker-fleet
-      - title: Kubernetes
+
+
+  # - title: Orchestration
+  #   children: 
+  #     - title: Docker-fleet
+  #     - title: Kubernetes
 
   
+  - title: DHCP
+    url: /homelab/software/dhcp
+
+    children:
+      - title: "Kea DHCP4"
+        url: /homelab/software/kea-dhcp4
   
   - title: DNS
     url: /homelab/software/dns
