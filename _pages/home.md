@@ -35,9 +35,6 @@ feature_row2:
     btn_class: btn--primary 
 ---
 
-**Please be advised:** This site is still very much under construction and offers very little content as of yet.
-{: .text-center .notice--warning}
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row type="center" %}
