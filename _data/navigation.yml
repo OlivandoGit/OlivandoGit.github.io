@@ -10,24 +10,29 @@ main:
 
 homelab-software-nav:
   # - title: Hypervisor
+  #   url: /homelab/software/hypervisor
+
   #   children:
   #     - title: Proxmox
-
-
+  #       url: /homelab/software/proxmox
 
   # - title: Containerisation
+  #   url: /homelab/software/containerisation
+
   #   children:
   #     - title: Docker
+  #       url: /homelab/software/docker
 
   #     - title: Docker-compose
-
-
-
+  #       url: /homelab/software/docker-compose
 
   # - title: Orchestration
+  #   url: /homelab/software/orchestration
+  
   #   children: 
-  #     - title: Docker-fleet
+  #     # - title: Docker-fleet
   #     - title: Kubernetes
+  #       url: /homelab/software/Kubernetes
 
   
   - title: DHCP
@@ -44,16 +49,16 @@ homelab-software-nav:
       - title: "Bind9"
         url: /homelab/software/bind9
 
-programming-nav:
-  - title: Advent of code
-    url: /programming/advent-of-code/home
+# programming-nav:
+#   - title: Advent of code
+#     url: /programming/advent-of-code/home
     
-    children:
-      - title: 2021
-        url: /programming/advent-of-code/2021
+#     children:
+#       - title: 2021
+#         url: /programming/advent-of-code/2021
 
-      - title: 2022
-        url: /programming/advent-of-code/2022
+#       - title: 2022
+#         url: /programming/advent-of-code/2022
 
-      - title: 2023
-        url: /programming/advent-of-code/2023
+#       - title: 2023
+#         url: /programming/advent-of-code/2023

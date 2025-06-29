@@ -19,7 +19,7 @@ In my Homelab, I am using bind9 as both an authoritative name server and a resol
 {: .notice--danger}
 
 **Github:** Incase you didn't know, my homelab is open-source and can be found on my [Github](https://github.com/OlivandoGit){:target="_blank"}.
-This projects files can be found at [Github/Homelab/bind9](https://github.com/OlivandoGit/Homelab/tree/master/bind9){:target="_blank"}
+This projects files can be found at [Github/Homelab/Services/Bind9](https://github.com/OlivandoGit/Homelab/tree/master/services/bind9){:target="_blank"}
 {: .notice--warning}
 
 ## Resolver DNS server

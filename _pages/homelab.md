@@ -7,9 +7,9 @@ layout: splash
 header:
   overlay_filter: 0.5
   overlay_image: assets/images/home-splash.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com){:target='_blank'}"
 
-# excerpt: A journey into Infrastructure management, Virtualisation, Containerisation, Orchestration and so much more
+#excerpt: A journey into Infrastructure management, Virtualisation, Containerisation, Orchestration and so much more
 
 feature_row:
     - image_path: /assets/images/server.png
@@ -27,9 +27,6 @@ feature_row:
       title: Topology
       excerpt: A description of the layout of my Homelab
       url: /homelab/topology
-
-sidebar:
-    nav: programming-nav
     
 ---
 
