@@ -7,7 +7,7 @@ hidden: true
 header:
   overlay_filter: 0.5
   overlay_image: assets/images/home-splash.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com){:target='_blank'}"
 
   actions:
     - label: Who am I?
