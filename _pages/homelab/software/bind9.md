@@ -8,9 +8,6 @@ sidebar:
 classes: wide
 ---
 
-**Please be advised:** This page is still in the draft phase. It may contain a few dead links and errors.
-{: .text-center .notice--warning}
-
 
 Bind9 is an open-source project maintained by the Internet Systems Consortium (ISC), which has evolved to be a very flexible, fully-featured DNS system. It boasts of being one of the most widely deployed DNS solutions, as well as being one of the oldest solutions available.
 
