@@ -1,6 +1,7 @@
 ---
 permalink: /homelab/topology
 title: Topology
-
-toc: true
 ---
+
+**Under construction** 
+{: .text-center .notice--warning}
