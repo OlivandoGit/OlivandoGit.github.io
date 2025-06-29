@@ -1,10 +1,16 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /about-me/
+title: "About me"
 
 author_profile: true
+
+classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am an aspiring network engineer, lover of technology and general tinkerer. I enjoy solving puzzles that I am presented with or that I have (often inadvertently) created for myself.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Servers and networking had always been an interest of mine. Starting in A-levels where I used a [Raspberry Pi](https://www.raspberrypi.com/){:target="_blank"} to serve an encrypted messaging platform I created in Python. This project is what I now consider to be my very first step into Homelabbing as well as defining my dreams for the future.
+
+At University, the global pandemic had left me with a lot of free time outside of lectures. In this time I would continue to develop my Homelab - spurred on by YouTubers like [TechnoTim](https://www.youtube.com/@TechnoTim){:target="_blank"}, [Jeff Geerling](https://www.youtube.com/@JeffGeerling){:target="_blank"}, [Cameron Gray](https://www.youtube.com/@camerongray1515){:target="_blank"}, [Jims Garage](https://www.youtube.com/@Jims-Garage){:target="_blank"}, [Network chuck](https://www.youtube.com/@NetworkChuck){:target="_blank"} and many more. My trusty Raspberry Pi would go on to see a lot more misuse; from being turned into a Wireless Access Point to combat poor dorm WI-FI signal, to becoming part of a cluster of Pis so I could learn more about Kubernetes.
+
+After university I was no longer restricted as to what I could control on my home network and so decided to control it all! All that glorious potential for tinkering could not be overlooked, and from that is where this current iteration of my homelab was born.

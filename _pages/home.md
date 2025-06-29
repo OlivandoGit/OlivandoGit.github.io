@@ -11,7 +11,7 @@ header:
 
   actions:
     - label: Who am I?
-      url: /about/
+      url: /about-me/
 
 excerpt: A documentation of my adventures in IT/CS/Homelab
 
