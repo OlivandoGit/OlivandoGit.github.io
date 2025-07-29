@@ -215,7 +215,7 @@ $TTL 2d
 
 $ORIGIN home.olivando.me.
 
-@	            IN	    SOA     home.olivando.me. ns.olivnaodo.me (
+@	            IN	    SOA     home.olivando.me. ns.olivando.me (
                                                     2024052601; serial
                                                     12h ; refresh
                                                     15m ; retry
