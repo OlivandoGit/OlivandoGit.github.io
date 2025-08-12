@@ -124,7 +124,7 @@ For this, I created a [convenience script in bash](https://github.com/OlivandoGi
 ## Authoritative DNS server
 My Authoritative DNS servers are separated from my resolver DNS servers as a best practice as defined by ISC. They do technically call for entirely separate hosts for this separation, however as there will never be any external access to my DNS servers, I felt comfortable in having them as separate containers on the same hosts.
 
-This does cause some issues with port mapping, as both the authoritative DNS server and resolver DNS server will be trying to listen on port 57 by default, but we can easily use Docker's port forwarding to resolve this issue.
+This does cause some issues with port mapping, as both the authoritative DNS server and resolver DNS server will be trying to listen on port 53 by default, but we can easily use Docker's port forwarding to resolve this issue.
 
 **For Example:** As defined in the resolver DNS server configuration file, I will be using external port 2053 to map to port 53 my authoritative DNS servers.
 {: .notice--info}
